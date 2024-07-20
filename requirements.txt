@@ -1,0 +1,7 @@
+jupyterlab
+pandas
+py4j
+matplotlib
+pydeequ
+numpy
+seaborn
