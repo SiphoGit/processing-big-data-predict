@@ -1,3 +1,9 @@
 *.csv
 /output
 /stocks
+.part*
+_SUCCESS
+._SUCCESS
+*.trashinfo
+*.crc
+*.parquet
